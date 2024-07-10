@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Im currently trying to learn computer programming and data science, currently working as a Data / Operations Analyst.
 <!--
 **AndreaBV00/AndreaBV00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
